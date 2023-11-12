@@ -1,0 +1,1 @@
+CREATE TABLE `id14934553_registro`.`cuentas` ( `nombre` VARCHAR(150) NOT NULL , `correo` VARCHAR(50) NOT NULL , `password` VARCHAR(50) NOT NULL , `genero` VARCHAR(50) NOT NULL , `fecha` DATE NOT NULL , `entidad` VARCHAR(50) NOT NULL , `celular` VARCHAR(10) NOT NULL , PRIMARY KEY (`correo`)) ENGINE = InnoDB;
